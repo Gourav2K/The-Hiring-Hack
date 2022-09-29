@@ -26,7 +26,7 @@ The first step for both the company and the student involves registering :
 
 ### 1.1 Company Registration
 
-- Company Registration requires the representative of the company to fill out the following fields : **Representative's Name **, **Representative's Email ID **, **Company's Name **, **Representative's Contact **, ** Company's Logo** , ** Password** .
+- Company Registration requires the representative of the company to fill out the following fields : **Representative's Name**, **Representative's Email ID**, **Company's Name**, **Representative's Contact**, **Company's Logo** , **Password** .
 
 <br />
 <img align="center" src="./gallery/CompanyRegistration.png"/>
@@ -35,7 +35,7 @@ The first step for both the company and the student involves registering :
 
 ### 1.2 Student Registration
 
-- Student Registration requires the student to fill outthe following fields: **Student's Name **, **Student's Email ID **, ** Gender **, ** Password** .
+- Student Registration requires the student to fill outthe following fields: **Student's Name**, **Student's Email ID **, **Gender**, **Password** .
 
 <br />
 <img align="center" src="./gallery/StudentRegistration.png"/>
@@ -60,20 +60,20 @@ The home page shows the company's logo along with the details that the represent
 ### 2.2 Add Internship
 
 - This page allows the recruiter to add the internship role.
-- Fields include - **Internship Title **, **Start Date **, ** End Date**, ** Application Deadline**, **Job Profile **, **Skills Required **, ** Eligibility Criteria**, ** Stipend (per month)**, **Location **, ** Internship Description **,
+- Fields include - **Internship Title**, **Start Date**, **End Date**, **Application Deadline**, **Job Profile **, **Skills Required**, **Eligibility Criteria**, **Stipend (per month)**, **Location**, **Internship Description**,
 
 > Note : The application Deadline should be earlier than the Start Date and End Date and
 > the Start Date should be earlier than the End Date.
-> <br />
-> <img align="center" src="./gallery/Add_Internship.png"/>
-> <br />
-> <img align="center" src="./gallery/Add_Internship2.png"/>
+ <br />
+ <img align="center" src="./gallery/Add_Internship.png"/>
+ <br />
+ <img align="center" src="./gallery/Add_Internship2.png"/>
 
 ### 2.3 Listed Internships
 
 - Lists out the Internship Roles that the company has opened up.
-- ** Edit Functionality ** : Allows the company to edit the Internship Details
-- ** Delete Functionality ** : Allows the company to delete any role which they are no longer looking interns for.
+- **Edit Functionality** : Allows the company to edit the Internship Details
+- **Delete Functionality** : Allows the company to delete any role which they are no longer looking interns for.
 
 <br />
 <img align="center" src="./gallery/Company_ListedInterns.png"/>
@@ -83,7 +83,7 @@ The home page shows the company's logo along with the details that the represent
 - The recruiter can check out the applicants who have applied for any of their roles.
 - The applicants are sorted as per the roles, meaning all applicants for a particular role come together followed by applicants for other roles.
 - The recruiter can check out the resumes of each of the applicant before moving onto the next step.
-- The recruiter may choose to appropriately manage the status of each applicant - ** Under Process **, ** Shortlisted **, ** Selected ** and ** Rejected **.
+- The recruiter may choose to appropriately manage the status of each applicant - **Under Process**, **Shortlisted**, **Selected** and **Rejected**.
 
 <br />
 <img align="center" src="./gallery/Company_StudentsApplied.png"/>
@@ -94,7 +94,7 @@ The home page shows the company's logo along with the details that the represent
 
 ### 3.1 Post-Login : Profile Page
 
-- Right after the student logs in, he/ she is taken to the Update Profile Page where he/she is required to enter/update all of their necessary information like - ** Name **, ** College **, ** Department **, ** Current Year of Study **, ** Contact **, ** Date of Birth **, ** Profile Photo **, ** Add Resume **,
+- Right after the student logs in, he/ she is taken to the Update Profile Page where he/she is required to enter/update all of their necessary information like - **Name**, **College**, **Department**, **Current Year of Study**, **Contact**, **Date of Birth**, **Profile Photo**, **Add Resume**,
 - Once they update their profiles, their profile photo and their resume is shown on the left panel for them to verify or update them as and when required.
 
 <br />
@@ -103,7 +103,7 @@ The home page shows the company's logo along with the details that the represent
 ### 3.2 Available Internships
 
 - This page displays all the available internships offered by various companies on the platform.
-- Each Internship Role card displays the following : ** Company Logo **, ** Company Name **, ** Posted Date**, ** Job Profile **, **Internship Title** and **Application Deadline**.
+- Each Internship Role card displays the following : **Company Logo**, **Company Name**, **Posted Date**, **Job Profile**, **Internship Title** and **Application Deadline**.
 - Clicking on any one of the cards opens up the internship details page for that particular role.
 
 <br />
