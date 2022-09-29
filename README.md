@@ -15,6 +15,7 @@ Objective : the HIRING HACK is a one-stop solution to your endless intern hunts.
 - HTML
 - CSS
 - Javascript
+- DB SQLite
 
 # Functionalities
 
@@ -64,10 +65,10 @@ The home page shows the company's logo along with the details that the represent
 
 > Note : The application Deadline should be earlier than the Start Date and End Date and
 > the Start Date should be earlier than the End Date.
- <br />
- <img align="center" src="./gallery/Add_Internship.png"/>
- <br />
- <img align="center" src="./gallery/Add_Internship2.png"/>
+> <br />
+> <img align="center" src="./gallery/Add_Internship.png"/>
+> <br />
+> <img align="center" src="./gallery/Add_Internship2.png"/>
 
 ### 2.3 Listed Internships
 
@@ -126,3 +127,5 @@ The home page shows the company's logo along with the details that the represent
 
 <br />
 <img align="center" src="./gallery/Internships_Applied.png"/>
+
+# Folder Structure
