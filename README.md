@@ -143,8 +143,6 @@ Used Whimiscal to lay the basic user flow in the beginning and then used Trello 
 
 # For more snaps
 
-You can go to the Gallery Folder and have a look at more snapshots of the project.
-
-**[Gallery](https://github.com/Gourav2K/The-Hiring-Hack/tree/main/gallery)**
+You can go to the Gallery Folder and have a look at more snapshots of the project. **[Gallery](https://github.com/Gourav2K/The-Hiring-Hack/tree/main/gallery)**
 
 **Thank You!**
