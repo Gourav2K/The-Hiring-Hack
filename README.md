@@ -65,10 +65,7 @@ The home page shows the company's logo along with the details that the represent
 
 > Note : The application Deadline should be earlier than the Start Date and End Date and
 > the Start Date should be earlier than the End Date.
-> <br />
-> <img align="center" src="./gallery/Add_Internship.png"/>
-> <br />
-> <img align="center" src="./gallery/Add_Internship2.png"/>
+> <br /> > <img align="center" src="./gallery/Add_Internship.png"/> > <br /> > <img align="center" src="./gallery/Add_Internship2.png"/>
 
 ### 2.3 Listed Internships
 
@@ -129,3 +126,10 @@ The home page shows the company's logo along with the details that the represent
 <img align="center" src="./gallery/Internships_Applied.png"/>
 
 # Folder Structure
+
+1. Marks1st - Django server side code, primarily settings.py
+2. Gallery - Project Snippets
+3. Login - Django server-side code related to Authentication
+4. Home - Django server side code and with all model schemas - Applicant, Company, Job and an Application.
+5. Static - Static components like images, CSS, JS, company logos, resumes and profile pictures.
+6. Templates - HTML, Bootstrap and EJS written Client Side Code.
