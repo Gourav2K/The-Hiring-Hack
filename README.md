@@ -133,3 +133,10 @@ The home page shows the company's logo along with the details that the represent
 4. Home - Django server side code and with all model schemas - Applicant, Company, Job and an Application.
 5. Static - Static components like images, CSS, JS, company logos, resumes and profile pictures.
 6. Templates - HTML, Bootstrap and EJS written Client Side Code.
+
+# User flow and plans
+
+Used Whimiscal to lay the basic user flow in the beginning and then used Trello to follow through with the plan
+
+1. [Trello]
+2. [Whimsical]
