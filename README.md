@@ -35,7 +35,7 @@ The first step for both the company and the student involves registering :
 
 ### 1.2 Student Registration
 
-- Student Registration requires the student to fill outthe following fields: **Student's Name**, **Student's Email ID **, **Gender**, **Password** .
+- Student Registration requires the student to fill outthe following fields: **Student's Name**, **Student's Email ID**, **Gender**, **Password** .
 
 <br />
 <img align="center" src="./gallery/StudentRegistration.png"/>
