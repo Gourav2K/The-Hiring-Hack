@@ -147,4 +147,4 @@ You can go to the Gallery Folder and have a look at more snapshots of the projec
 
 **[Gallery](https://github.com/Gourav2K/The-Hiring-Hack/tree/main/gallery)**
 
-** Thank You! **
+**Thank You!**
