@@ -138,5 +138,5 @@ The home page shows the company's logo along with the details that the represent
 
 Used Whimiscal to lay the basic user flow in the beginning and then used Trello to follow through with the plan
 
-1. [Trello]
-2. [Whimsical]
+1. Trello
+2. Whimsical
