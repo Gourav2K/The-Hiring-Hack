@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'home.apps.HomeConfig',
     'login.apps.LoginConfig',
-    'company.apps.CompanyConfig',
     'django_cleanup.apps.CleanupConfig'
 ]
 
